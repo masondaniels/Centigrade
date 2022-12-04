@@ -1,0 +1,16 @@
+*.orig
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+/.project
+/.settings
+bin/**
+target/
+/.mvn
+/.maven
+/.repository
+.flattened-pom.xml
+.classpath
+.gitattributes
